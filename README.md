@@ -55,3 +55,6 @@ This will indeed break the achievement for shooting yourself with a sawed-off sh
 
 ## How do I know it works?
 Launching the game and taking damage should shock you. If you're scared of malfunction, check the pishock logs on the website without the shock collar on. If you're still scared... well, you're playing Russian Roulette, what did you expect? (I'd just like to point out, that github copilot suggested that previous sentence)
+
+## Is it tested?
+No, lmao.
